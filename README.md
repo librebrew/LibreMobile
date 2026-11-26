@@ -28,4 +28,4 @@ Please for the love of god wear basic protective gear when "driving" this thing.
 
 This project is licensed under CERN-OHL-S-2.0. I know. Cry about it. It's not getting relicensed. See [LICENSE](LICENSE) for more information, or visit [the original author(s)](https://cern-ohl.web.cern.ch/).
 
-Never trust a 14 year old who does engineering for fun.
+Never trust a 14 year old who does engineering for fun, even me.
